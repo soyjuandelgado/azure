@@ -43,3 +43,6 @@ Es una manera de controlar y aislar las IAs de tu sistema.
 ---
 
 examprepper.com
+
+## 12/11/2026
+

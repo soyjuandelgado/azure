@@ -26,6 +26,7 @@
           {
             "id": "2322ee64f375bd48",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,6 +34,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "AI-901"
             }
@@ -219,29 +221,29 @@
   },
   "active": "2322ee64f375bd48",
   "lastOpenFiles": [
-    "AI-901/Imagenes/Captura de pantalla 2026-11-11 103432.png",
-    "AI-901/Imagenes/Captura de pantalla 2026-11-11 094501.png",
-    "AI-901/Imagenes/Captura de pantalla 2026-11-11 093044.png",
-    "AI-901/Imagenes/Captura de pantalla 2026-11-11 092959.png",
-    "AI-901/Imagenes/Captura de pantalla 2026-11-11 092838.png",
+    "AI-901/AI-901T00-PowerPoint.es-ES/AI-901T00-PowerPoint_06.es-ES.pptx",
+    "AI-901/AI-901T00-PowerPoint.es-ES/AI-901T00-PowerPoint_05.es-ES.pptx",
+    "AI-901/AI-901T00-PowerPoint.es-ES/AI-901T00-PowerPoint_04.es-ES.pptx",
+    "AI-901/AI-901T00-PowerPoint.es-ES/AI-901T00-PowerPoint_03.es-ES.pptx",
+    "AI-901/AI-901T00-PowerPoint.es-ES/AI-901T00-PowerPoint_02.es-ES.pptx",
+    "AI-901/AI-901T00-PowerPoint.es-ES/AI-901T00-PowerPoint_01.es-ES.pptx",
+    "AI-901/AI-901T00-PowerPoint.es-ES/AI-901T00-ILT-Introduction.es-ES.pptx",
+    "AI-901/AI-901T00-PowerPoint.es-ES/AI-901T00-ILT-Conclusion.es-ES.pptx",
+    "AI-901/AI-901T00-PowerPoint.es-ES",
+    "AI-901/Imagenes/Captura de pantalla 2026-11-12 122456.png",
+    "AI-901/Imagenes/Captura de pantalla 2026-11-12 122151.png",
+    "AI-901/Imagenes/Captura de pantalla 2026-11-12 122121.png",
+    "AI-901/Imagenes/Captura de pantalla 2026-11-12 121915.png",
+    "AI-901/Imagenes/Captura de pantalla 2026-11-12 121637.png",
+    "AI-901/Imagenes/Captura de pantalla 2026-11-12 121337.png",
+    "AI-901/Imagenes/Captura de pantalla 2026-11-12 120618.png",
+    "AI-901/Imagenes/Captura de pantalla 2026-11-12 120957.png",
+    "AI-901/AI-901.md",
+    "AI-901/Imagenes/Captura de pantalla 2026-11-12 115739.png",
+    "AI-901/Imagenes/Captura de pantalla 2026-11-12 115619.png",
+    "notas.md",
     "AI-901/Imagenes",
     "AI-901/Nueva carpeta",
-    "AZ-900T00/AZ-900T00.md",
-    "notas.md",
-    "AI-901/AI-901.md",
-    "AI-901",
-    "AZ-900T00/Imagenes/Captura de pantalla 2026-11-10 134605.png",
-    "AZ-900T00/Imagenes/Captura de pantalla 2026-11-10 125150.png",
-    "AZ-900T00/Imagenes/Captura de pantalla 2026-11-10 123914.png",
-    "AZ-900T00/Imagenes/Captura de pantalla 2026-11-10 113600.png",
-    "AZ-900T00/Imagenes/Captura de pantalla 2026-11-10 112819.png",
-    "AZ-900T00/Imagenes/Captura de pantalla 2026-11-10 112700.png",
-    "AZ-900T00/bcnactiva-template.zip",
-    "AZ-900T00/bcnactiva-template.zip.zmdownload",
-    "AZ-900T00/Contenido/AZ-900T00A-ES-PowerPoint-Introduction.pptx",
-    "AZ-900T00/Contenido/AZ-900T00A-ES-PowerPoint_03.pptx",
-    "AZ-900T00/Contenido/AZ-900T00A-ES-PowerPoint_02.pptx",
-    "AZ-900T00/Contenido/AZ-900T00A-ES-PowerPoint_01.pptx",
-    "AZ-900T00/Contenido"
+    "AZ-900T00/AZ-900T00.md"
   ]
 }
