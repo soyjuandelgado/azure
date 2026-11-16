@@ -1,5 +1,7 @@
 Manuel Martínez
 
+Teams: https://teams.microsoft.com/meet/3446454090472870?p=vooz07mWCz7pEqR2OE
+
 AZ-900
 AI-901
 AI-103
@@ -46,3 +48,4 @@ examprepper.com
 
 ## 12/11/2026
 
+## 16/11/2026
