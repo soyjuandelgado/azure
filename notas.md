@@ -49,3 +49,15 @@ examprepper.com
 ## 12/11/2026
 
 ## 16/11/2026
+
+## 17/11/2026
+
+Para modelos en local:
+- LM Studio
+- Ollama
+- LlamaCPT
+
+
+Baterias de pregutnas baratas: examprepper.com
+
+examtopics.com: más caro pero actualizadas
