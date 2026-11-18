@@ -61,3 +61,9 @@ Para modelos en local:
 Baterias de pregutnas baratas: examprepper.com
 
 examtopics.com: más caro pero actualizadas
+
+## 18/11/2026
+
+Biceps es más o menos como Terraform.
+
+Labs hasta LP04M3
