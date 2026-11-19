@@ -70,4 +70,17 @@ Labs hasta LP04M3
 
 ## 19/11/2026
 
-Se puede montar una federación entre los tenant de Google y EntraID
+Se puede montar una federación entre los tenants de Google y EntraID
+
+### Ejercicio práctico
+
+**Guardar en BD PosgreSQL la temperatura de varias zonas de Barcelona. Habrá una caché que guarde los valores enteros y se modifica cuando el entero cambia. Los usuarios acceden a la información de la caché.**
+
+- Linux+ VLLM + Qwen 3.8 flash next
+- conectado con OpenAI API
+- se conecta copilot de VS2026 mediante la API 
+
+Hardware: ESP32 + DTT
+
+ORM: se conecta a la BD y la replica en entidades
+DAO: es quien hace las operaciones sobre BD

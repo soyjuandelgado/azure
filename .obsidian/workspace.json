@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,20 +251,20 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "b0cad26c5aadaad2",
+  "active": "001deba96542102a",
   "lastOpenFiles": [
-    "Pasted image 20261119121458.png",
-    "Pasted image 20261119121401.png",
-    "Pasted image 20261119121240.png",
-    "Pasted image 20261119120620.png",
-    "Pasted image 20261119120529.png",
-    "Pasted image 20261119120412.png",
-    "Pasted image 20261119115953.png",
+    "AI-200/AI-200T00.md",
+    "AI-200/Imagenes/Pasted image 20261119121458.png",
+    "AI-200/Imagenes/Pasted image 20261119121401.png",
+    "AI-200/Imagenes/Pasted image 20261119121240.png",
+    "AI-200/Imagenes/Pasted image 20261119120620.png",
+    "AI-200/Imagenes/Pasted image 20261119120529.png",
+    "AI-200/Imagenes/Pasted image 20261119120412.png",
+    "AI-200/Imagenes/Pasted image 20261119115953.png",
     "AI-200/Imagenes/Pasted image 20261119114032.png",
     "AI-200/Imagenes/Pasted image 20261119114011.png",
     "AI-200/Imagenes/Pasted image 20261119113933.png",
     "AI-200/Contenido/AI-200T00-PowerPoint.es-ES/lu604i8az.tmp",
-    "AI-200/Imagenes/Pasted image 20261119113835.png",
     "AI-200/Contenido/AI-200T00_Conclusion.pdf",
     "AI-200/Contenido/AI-200T00_9.pdf",
     "AI-200/Contenido/AI-200T00_8.pdf",
@@ -275,7 +275,6 @@
     "AI-200/Contenido/AI-200T00_2.pdf",
     "AI-200/Contenido/AI-200T00_1.pdf",
     "notas.md",
-    "AI-200/AI-200T00.md",
     "AI-200/Ejercicios/Ejercicio_2.md",
     "AI-200/Ejercicios/Ejercicio_1.md",
     "AI-200/Ejercicios/Ejercicios_AI-200.md",
