@@ -58,7 +58,7 @@ Para modelos en local:
 - LlamaCPT
 
 
-Baterias de pregutnas baratas: examprepper.com
+Baterías de preguntas baratas: examprepper.com
 
 examtopics.com: más caro pero actualizadas
 
@@ -67,3 +67,7 @@ examtopics.com: más caro pero actualizadas
 Biceps es más o menos como Terraform.
 
 Labs hasta LP04M3
+
+## 19/11/2026
+
+Se puede montar una federación entre los tenant de Google y EntraID
