@@ -84,3 +84,16 @@ Hardware: ESP32 + DTT
 
 ORM: se conecta a la BD y la replica en entidades
 DAO: es quien hace las operaciones sobre BD
+
+## 23/11/2026
+
+- Instalar Azure functions en VS
+- En Azure Tools viene el pack de todo lo que hace falta
+
+Buscar en Google: configuración en VSC para Azure para saber como hacerlo.
+
+Cuando se guarda una plantilla, después se carga con "deploy a custom template" buscando en la barra de azure.
+
+averiguar como exportar plantillas.
+
+Si se guardan plantillas parciales de los recursos luego hay problemas de dependencias.
