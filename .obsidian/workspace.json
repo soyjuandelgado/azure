@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,13 +251,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "4db139bc2ec9f3ea",
+  "active": "898f4ca25a469bd8",
   "lastOpenFiles": [
+    "notas.md",
     "AI-103T00/AI-103T00.md",
     "AI-103T00/Ejercicios",
     "AI-103T00/Contenido",
     "AI-103T00/Imagenes",
-    "notas.md",
     "AI-103T00",
     "AI-901T00/Contenido/AI-901T00_pdfs.zip",
     "AI-901T00/Contenido/AI-901T00_7_conclusion.zip",
