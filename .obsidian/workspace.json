@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8441c4043b0d60eb",
@@ -251,8 +252,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "898f4ca25a469bd8",
+  "active": "4db139bc2ec9f3ea",
   "lastOpenFiles": [
+    "a.md",
+    "notas.md",
+    "AI-200/Ejercicios/Ejercicio_2.md",
+    "AI-103T00/AI-103T00.md",
     "AI-103T00/Contenido/AI-103T00_Conclusion.pdf",
     "AI-103T00/Contenido/AI-103T00_4.pdf",
     "AI-103T00/Contenido/AI-103T00_3.pdf",
@@ -263,10 +268,6 @@
     "AI-103T00/Contenido/ai-103/__MACOSX",
     "AI-103T00/Contenido/ai-103/ai-103/AI-103T00-PowerPoint_02.es-ES.pptx",
     "AI-103T00/Contenido/ai-103/ai-103/AI-103T00-PowerPoint_03.es-ES.pptx",
-    "AI-103T00/Contenido/ai-103/ai-103/AI-103T00-PowerPoint_Conclusion.es-ES.pptx",
-    "notas.md",
-    "AI-103T00/AI-103T00.md",
-    "AI-200/Ejercicios/Ejercicio_2.md",
     "AI-200/AI-200T00.md",
     "AI-200/Imagenes/Pasted image 20261123112938.png",
     "AI-200/Imagenes/Pasted image 20261123112723.png",
