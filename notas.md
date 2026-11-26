@@ -97,3 +97,9 @@ Cuando se guarda una plantilla, después se carga con "deploy a custom template"
 averiguar como exportar plantillas.
 
 Si se guardan plantillas parciales de los recursos luego hay problemas de dependencias.
+
+## 24/11/2026
+
+Faltan apuntes
+## 26/11/2026
+

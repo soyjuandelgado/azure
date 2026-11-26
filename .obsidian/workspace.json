@@ -56,21 +56,23 @@
             }
           },
           {
-            "id": "c98715669a3bbb2f",
+            "id": "898f4ca25a469bd8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-200/Ejercicios/Ejercicio_2.md",
+                "file": "AI-103T00/AI-103T00.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Ejercicio_2"
+              "title": "AI-103T00"
             }
           },
           {
-            "id": "898f4ca25a469bd8",
+            "id": "4db139bc2ec9f3ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8441c4043b0d60eb",
@@ -250,32 +251,32 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "898f4ca25a469bd8",
+  "active": "4db139bc2ec9f3ea",
   "lastOpenFiles": [
+    "AI-103T00/AI-103T00.md",
+    "AI-103T00/Ejercicios",
+    "AI-103T00/Contenido",
+    "AI-103T00/Imagenes",
+    "notas.md",
+    "AI-103T00",
     "AI-901T00/Contenido/AI-901T00_pdfs.zip",
     "AI-901T00/Contenido/AI-901T00_7_conclusion.zip",
     "AI-901T00/Contenido/AI-901-pdf.rar",
     "AI-901T00/Contenido/Contenido.rar",
     "AI-200/Ejercicios/Ejercicio_2.md",
     "AI-200/AI-200T00.md",
-    "Pasted image 20261123112938.png",
-    "Pasted image 20261123112723.png",
-    "Pasted image 20261123112658.png",
-    "Pasted image 20261123112634.png",
-    "Pasted image 20261123112612.png",
-    "Pasted image 20261123112511.png",
-    "Pasted image 20261123112455.png",
-    "Pasted image 20261123111601.png",
-    "Pasted image 20261123111013.png",
-    "Pasted image 20261123110811.png",
+    "AI-200/Imagenes/Pasted image 20261123112938.png",
+    "AI-200/Imagenes/Pasted image 20261123112723.png",
+    "AI-200/Imagenes/Pasted image 20261123112658.png",
+    "AI-200/Imagenes/Pasted image 20261123112634.png",
+    "AI-200/Imagenes/Pasted image 20261123112612.png",
+    "AI-200/Imagenes/Pasted image 20261123112511.png",
+    "AI-200/Imagenes/Pasted image 20261123112455.png",
+    "AI-200/Imagenes/Pasted image 20261123111601.png",
+    "AI-200/Imagenes/Pasted image 20261123111013.png",
+    "AI-200/Imagenes/Pasted image 20261123110811.png",
     "AI-200/Contenido/AI-200T00_Intro.pdf",
     "AI-200/Contenido/AI-200T00_Conclusion.pdf",
-    "AI-200/Contenido/AI-200T00_9.pdf",
-    "AI-200/Contenido/AI-200T00_8.pdf",
-    "AI-200/Contenido/AI-200T00_7.pdf",
-    "AI-200/Contenido/AI-200T00_6.pdf",
-    "AI-200/Contenido/AI-200T00_5.pdf",
-    "notas.md",
     "AI-200/Ejercicios/Ejercicio_1.md",
     "AI-200/Ejercicios/Ejercicios_AI-200.md",
     "AZ-900T00/Ejercicios/Ejercicios_AZ-900.md",
